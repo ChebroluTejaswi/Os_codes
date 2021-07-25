@@ -1,4 +1,4 @@
-# <align="center">Os_codes
+<h1 align="center">Os_codes</h1>
 Perfect repo containing max of OS related codes. Hope it help's you when you are stuck in between coding few techniques in OS.
 
 <h2>CPU Scheduling algorithms</h2>
